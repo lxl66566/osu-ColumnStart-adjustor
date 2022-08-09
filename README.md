@@ -5,9 +5,11 @@
 ## 使用条件
 python3运行环境
 ## 使用方法
-1. 下载`adjustcs.py`并放入需调整的皮肤文件夹内
+1. [下载`adjustcs.py`](https://github.com/lxl66566/osu-ColumnStart-adjustor/releases/download/v1.0/adjustcs.py)并放入需调整的皮肤文件夹内
 2. 当前目录下打开命令提示符，执行`python adjustcs.py`
-3. 输入中线位置
+3. 输入中线位置并回车
+
+![pi161-3u4bg](https://user-images.githubusercontent.com/88281489/183567122-89a188d9-388f-4f90-8954-59d5fed37226.gif)
 ## 提示
 仅替换4-7k的ColumnStart值。若需替换其他key数，请打开该py文件，更改23行`range(4,8)`的值。
 
